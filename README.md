@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" src="https://ibb.co/mccJs49"  alt="coding" width="400" >
-
+[1953-removebg-preview.png](https://postimg.cc/QVBZvpyw)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamama-bin-shakil&label=Profile%20views&color=0e75b6&style=flat" alt="shamama-bin-shakil" /> </p>
 
 - 🌱 I’m currently learning **Framework**
