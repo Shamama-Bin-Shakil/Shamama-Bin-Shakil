@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamama-Bin-Shakil</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/51/bf/0c/51bf0c833141259968b588149c0e20fa.png"  alt="coding" width="400" >
+<img align="right" src="https://ibb.co/mccJs49"  alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamama-bin-shakil&label=Profile%20views&color=0e75b6&style=flat" alt="shamama-bin-shakil" /> </p>
 
